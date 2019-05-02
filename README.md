@@ -4,4 +4,3 @@ This is the LAMMPS script to calculate the energy landscape of MoS2 on a SiO2 su
 References  
 1.	Liang, T., Phillpot, S. R. & Sinnott, S. B. Parametrization of a reactive many-body potential for Mo-S systems. Phys. Rev. B - Condens. Matter Mater. Phys. 79, 1–14 (2009).
 2.	Munetoh, S., Motooka, T., Moriguchi, K. & Shintani, A. Interatomic potential for Si-O systems using Tersoff parameterization. Comput. Mater. Sci. 39, 334–339 (2007).
-
